@@ -1,0 +1,55 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.none {
+  display: none;
+}
+/*#wrapper {
+  margin: 10% 20% 10% 20%;
+}*/
+/*h1 {
+  text-align: center;
+  width: 500px;
+}*/
+/*img {
+  width: 40px;
+  height: 40px;
+  margin: 10px;
+}*/
+/*p {
+  display: inline-block;
+  height: 40px;
+}*/
+/*button {
+  height: 40px;
+  width: 80px;
+  margin: 10px;
+}*/
+/*input {
+  height: 60px;
+  border: 0px;
+  font-size: 18px;
+  margin: 0 0 0 10px;
+}*/
+/*.tasklist_item, .input_wrap {
+  border: 1px solid gray;
+  margin: 10px;
+  width: 500px;
+  height: 60px;
+}*/
+/*.task_name {
+  width: 100px;
+}*/
+/*.task_time {
+  width: 180px;
+}*/
+/*.check_img {
+  float: left;
+}*/
+/*.cross_img {
+  float: right;
+}*/
+/*.add_button {
+  float: right;
+}*/
